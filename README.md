@@ -1,16 +1,41 @@
-### Hi there 👋
+## Olá me chamo David Alves 👋
+- 🔭 Atualmente trabalho como analista de implantação e estudando para ingressar na área de dev.
+- 🎓 Cursei sistemas de informação no IFCE(Instituto Federal do Ceará).
+- 📝 Dá uma passada lá no meu blog(https://david27alves.github.io), prometo que vou atualizar cm mais frequência. 😅
+- 📫 Entre em contato através do meu email: david27alves@gmail.com
 
-<!--
-**david27alves/david27alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: block; margin-right: auto; margin-left: auto;">
+  <a href="https://github.com/david27alves"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david27alves&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=david27alves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div><br>
+<div style="display: inline_block">
+  <img align="center" alt="Ane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+</div>
 
-Here are some ideas to get you started:
+### O que estou estudando no momento
+ 
+<div> 
+   <img align="center" alt="Ane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Alguns projetos
+  
+  <ul>
+    <li><a href="https://promogamer.com.br/">Promogamer</a></li>
+    <li><a href="https://semprefriocar.com.br">SempreFrioCar</a></li>
+    <li><a href="https://codepen.io/david27alves/pen/vYWdRNq">Card Profile</a></li>
+  </ul>
+
+### Entre em contato
+
+<div>
+  <a href="https://www.linkedin.com/in/david-alves-79483345/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://instagram.com/david27alves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/david27alves/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
