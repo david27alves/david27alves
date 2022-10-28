@@ -27,6 +27,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/
 ### Alguns projetos
   
   <ul>
+    <li><a href="https://legendary-fox-914645.netlify.app/">Marvel App</a></li>
+    <li><a href="https://github.com/david27alves/dashboard-firebase">Dashboard Firebase</a></li>
+    <li><a href="https://github.com/david27alves/brisapix-api">API transações PIX</a></li>
     <li><a href="https://promogamer.com.br/">Promogamer</a></li>
     <li><a href="https://semprefriocar.com.br">SempreFrioCar</a></li>
     <li><a href="https://codepen.io/david27alves/pen/vYWdRNq">Card Profile</a></li>
