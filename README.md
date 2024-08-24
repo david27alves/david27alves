@@ -1,8 +1,4 @@
 ## Olá me chamo David Alves 👋
-- 🔭 Atualmente trabalho como analista de implantação e estudando para ingressar na área de dev.
-- 🎓 Cursei sistemas de informação no IFCE(Instituto Federal do Ceará).
-- 📝 Dá uma passada lá no meu blog(https://david27alves.github.io), prometo que vou atualizar cm mais frequência. 😅
-- 📫 Entre em contato através do meu email: david27alves@gmail.com
 
 <div style="display: block; margin-right: auto; margin-left: auto;">
   <a href="https://github.com/david27alves"></a>
