@@ -36,7 +36,6 @@
     <li><a href="https://semprefriocar.com.br">SempreFrioCar</a></li>
     <li><a href="https://codepen.io/david27alves/pen/vYWdRNq">Card Profile</a></li>
     <li><a href="https://codesandbox.io/s/unruffled-sun-6lknq9">Login Page React</a></li>
-    <li><a href="https://david27alves.github.io/">Meu blog</a></li>
   </ul>
 
 ### Entre em contato
